@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Chatonn",
+  "description": "A sophisticated AI companion with multi-modal capabilities including text, search grounding, image generation, video generation, and real-time live audio conversation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

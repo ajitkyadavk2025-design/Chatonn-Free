@@ -1,11 +1,25 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# Chatonn 💎
 
-  <h1>Built with AI Studio</h2>
+A sophisticated, free AI companion powered by Google Gemini.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Features
+- **Chat**: Advanced reasoning with visible "Thinking" process.
+- **Search**: Grounded web results with source links.
+- **Image/Video**: Multi-modal generation using Gemini 2.5 and Veo.
+- **Live Mode**: Real-time low-latency voice conversation.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Local Development
+1. Clone the repo.
+2. Run `npm install`.
+3. Create a `.env` file and add `VITE_API_KEY=your_key_here`.
+4. Run `npm run dev`.
 
-</div>
+## Publishing
+1. Push this code to **GitHub**.
+2. Connect your GitHub repo to **Vercel** or **Netlify**.
+3. Add `API_KEY` to the Environment Variables in your hosting dashboard.
+4. Deploy!
+
+## License
+MIT - It's your app, do what you want with it!
